@@ -10,6 +10,12 @@ ML-based browser automation framework that performs web content analysis, securi
 
 ---
 
+Visualizations may not partially rendered here. Please use the following link of the full code blocks to view the full analysis and results.
+
+**Link:** https://nbviewer.org/github/SamiraSamrose/Chrome-agentic-capabilities-and-Gemini-integration-framework/blob/main/Chrome_agentic_capabilities_and_Gemini_integration_framework.ipynb
+
+---
+
 ## Goals & Purposes
 
 **Goals:**
